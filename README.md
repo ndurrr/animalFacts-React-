@@ -1,1 +1,1 @@
-# animalFacts-React-
+# animalFacts (React app)
